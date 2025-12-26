@@ -1,0 +1,2 @@
+Justification
+Subcellular localization analysis suggests that the protein is most likely cytoplasmic. PSORT predicted cytoplasmic localization with high reliability (76.7%) and the strongest k-NN score, showing close similarity to known cytoplasmic proteins. Although DeepLoc assigned some probability to extracellular localization, the absence of a signal peptide, transmembrane regions, or targeting signals argues against secretion. Overall, the PSORT prediction is more biologically consistent, supporting cytoplasmic localization.
